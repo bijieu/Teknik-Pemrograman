@@ -57,7 +57,7 @@ p2p-lending/
 
 ---
 
-## 🔄 Alur Sistem
+## Alur Sistem
 
 ### 1. Loan Creation
 
